@@ -16,6 +16,10 @@
 - онлайн кинотеатр (в разработке) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public)
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg)
+- gists:
+  - [git utilities](https://gist.github.com/orthlus/7e8212be5c16484dab9d0aea5e210a02)
+  - [powershell utilities](https://gist.github.com/orthlus/728e8de8d75b4abcd12506fb69bc0448)
+
 
 - Why below so many contributions:
   - Скрипт, который заполняет Contribution activity - [GitJob.java](https://github.com/orthlus/cron-service/blob/master/src/main/java/main/rest/GitJob.java)
