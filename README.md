@@ -8,6 +8,7 @@ My pet projects:
 - java libraries
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
   - [orthlus/aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
+  - [orthlus/s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
   - [orthlus/aelaort-telegrambots](https://github.com/orthlus/aelaort-telegrambots) - helpers for [telegrambots](https://github.com/rubenlagus/TelegramBots)
 - infrastructure projects
   - [orthlus/update-dns-cloudflare](https://github.com/orthlus/update-dns-cloudflare) - dns records update for dynamic ip, python, cloudflare api
