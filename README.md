@@ -17,6 +17,9 @@ My pet projects:
 - online cinema (not released) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public) - cinema app operational description
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - тестирование версий использования ffmpeg для нужд кинотеатра
+- python scripts
+  - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - скрипты для конвертации больших файлов в набор base64 файлов и обратно
+  - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - тестирование версий использования ffmpeg для нужд кинотеатра
 - gists:
   - [git utilities](https://gist.github.com/orthlus/7e8212be5c16484dab9d0aea5e210a02)
   - [powershell utilities](https://gist.github.com/orthlus/728e8de8d75b4abcd12506fb69bc0448)
