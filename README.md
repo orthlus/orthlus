@@ -9,6 +9,7 @@ My pet projects:
   - [orthlus/telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
   - [orthlus/media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
   - [orthlus/cron-service](https://github.com/orthlus/cron-service) - personal apps with scheduling
+  - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
 - java libraries
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
   - [orthlus/aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
