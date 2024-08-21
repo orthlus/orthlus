@@ -23,6 +23,7 @@ My pet projects:
 - gists:
   - [git utilities](https://gist.github.com/orthlus/7e8212be5c16484dab9d0aea5e210a02)
   - [powershell utilities](https://gist.github.com/orthlus/728e8de8d75b4abcd12506fb69bc0448)
+  - [habr js scripts](https://gist.github.com/orthlus/3b1ffe27656abfa09629aa672b112c5f)
 
 
 Why below so many contributions:
