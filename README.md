@@ -20,6 +20,8 @@ My pet projects:
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
 - python scripts
   - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python+openssl scripts for convert large binary files to many small text files and back
+- javascript
+  - [orthlus/csv-to-sql-format](https://github.com/orthlus/csv-to-sql-format) - csv to sql data converter for ad hoc data analysis
 - gists:
   - [git utilities](https://gist.github.com/orthlus/7e8212be5c16484dab9d0aea5e210a02)
   - [powershell utilities](https://gist.github.com/orthlus/728e8de8d75b4abcd12506fb69bc0448)
