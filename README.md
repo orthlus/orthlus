@@ -11,6 +11,7 @@ My pet projects:
   - [orthlus/cron-service](https://github.com/orthlus/cron-service) - personal apps with scheduling
   - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
 - java libraries
+  - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
   - [orthlus/aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
   - [orthlus/s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
