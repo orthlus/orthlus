@@ -10,6 +10,7 @@ My pet projects:
   - [orthlus/media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
   - [orthlus/cron-service](https://github.com/orthlus/cron-service) - personal apps with scheduling
   - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
+  - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - support billing service for bots
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
