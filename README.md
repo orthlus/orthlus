@@ -20,6 +20,8 @@ My pet projects:
 - online cinema (not released) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public) - cinema app operational description
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
+- java scripts
+  - [orthlus/clipboard-text-simulate-printing](https://github.com/orthlus/clipboard-text-simulate-printing) - get text from system clipboard and simulate print it by press key
 - python scripts
   - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python+openssl scripts for convert large binary files to many small text files and back
 - javascript
