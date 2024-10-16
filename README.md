@@ -23,7 +23,7 @@ My pet projects:
 - java scripts
   - [orthlus/clipboard-text-simulate-printing](https://github.com/orthlus/clipboard-text-simulate-printing) - get text from system clipboard and simulate print it by press key
 - python scripts
-  - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python+openssl scripts for convert large binary files to many small text files and back
+  - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python scripts for convert large binary files to many small text files and back
 - javascript
   - [orthlus/csv-to-sql-format](https://github.com/orthlus/csv-to-sql-format) - csv to sql data converter for ad hoc data analysis
 - gists:
