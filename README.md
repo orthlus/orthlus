@@ -17,6 +17,7 @@ My pet projects:
   - [orthlus/aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
   - [orthlus/s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
   - [orthlus/aelaort-telegrambots](https://github.com/orthlus/aelaort-telegrambots) - helpers for [telegrambots](https://github.com/rubenlagus/TelegramBots)
+  - [orthlus/ya-iam-helper](https://github.com/orthlus/ya-iam-helper) - yandex cloud token provider
 - online cinema (not released) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public) - cinema app operational description
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
