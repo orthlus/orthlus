@@ -23,6 +23,7 @@ My pet projects:
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
 - java scripts
   - [orthlus/clipboard-text-simulate-printing](https://github.com/orthlus/clipboard-text-simulate-printing) - get text from system clipboard and simulate print it by press key
+  - [orthlus/java-cli-tree](https://github.com/orthlus/java-cli-tree) - cli graalvm tree implementation
 - python scripts
   - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python scripts for convert large binary files to many small text files and back
   - [orthlus/update-dns-cloudflare](https://github.com/orthlus/update-dns-cloudflare) - dns records update for dynamic ip, python, cloudflare api
