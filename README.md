@@ -11,6 +11,7 @@ My pet projects:
   - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
   - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - support billing service for bots
   - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns cron in spring boot
+  - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
