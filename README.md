@@ -12,7 +12,7 @@ My pet projects:
   - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - support billing service for bots
   - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns cron in spring boot
   - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
-  - [orthlus/il-hls-gen-svc](https://github.com/orthlus/il-hls-gen-svc) - tasks for ffmpeg with starting k8s jobs
+  - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
