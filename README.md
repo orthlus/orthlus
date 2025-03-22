@@ -13,6 +13,7 @@ My pet projects:
   - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns cron in spring boot
   - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
   - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
+  - [orthlus/ae-backup-monitor](https://github.com/orthlus/ae-backup-monitor) - monitoring some backups (they are created and modified)
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
