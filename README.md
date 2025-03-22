@@ -14,6 +14,7 @@ My pet projects:
   - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
   - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
   - [orthlus/ae-backup-monitor](https://github.com/orthlus/ae-backup-monitor) - monitoring some backups (they are created and modified)
+  - [orthlus/ae-dns-backup](https://github.com/orthlus/ae-dns-backup) - backup dns yandex cloud for cronjob
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
