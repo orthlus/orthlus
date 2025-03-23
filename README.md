@@ -7,7 +7,6 @@ My pet projects:
 - java backend apps:
   - [orthlus/telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
   - [orthlus/media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
-  - [orthlus/cron-service](https://github.com/orthlus/cron-service) - personal apps with scheduling
   - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
   - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - support billing service for bots
   - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns cron in spring boot
