@@ -2,19 +2,19 @@
 
 My pet projects:
 - infrastructure projects
-  - [orthlus/infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli, building apps and manage infrastructure objects inventory on local custom file structure
+  - [orthlus/infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli, building apps, manage and inventory infrastructure objects on local custom file structure
   - [orthlus/docker-management-script](https://github.com/orthlus/docker-management-script) - docker compose cli wrapper, potentially safe for manual admin
 - java backend apps:
-  - [orthlus/telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
   - [orthlus/media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
+  - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns (yandex cloud dns) cron in spring boot
   - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
-  - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - support billing service for bots
-  - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns cron in spring boot
   - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
-  - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
   - [orthlus/ae-backup-monitor](https://github.com/orthlus/ae-backup-monitor) - monitoring some backups (they are created and modified)
+  - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
   - [orthlus/ae-dns-backup](https://github.com/orthlus/ae-dns-backup) - backup dns yandex cloud for cronjob
   - [orthlus/ae-habr-worker](https://github.com/orthlus/ae-habr-worker) - habr scanner for cronjob
+  - [orthlus/telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
+  - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - some billing bot
 - java libraries
   - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
