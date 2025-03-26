@@ -2,38 +2,38 @@
 
 My pet projects:
 - infrastructure projects
-  - [orthlus/infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli, building apps, manage and inventory infrastructure objects on local custom file structure
-  - [orthlus/docker-management-script](https://github.com/orthlus/docker-management-script) - docker compose cli wrapper, potentially safe for manual admin
+  - [infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli, building apps, manage and inventory infrastructure objects on local custom file structure
+  - [docker-management-script](https://github.com/orthlus/docker-management-script) - docker compose cli wrapper, potentially safe for manual admin
 - java backend apps:
-  - [orthlus/media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
-  - [orthlus/dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns (yandex cloud dns) cron in spring boot
-  - [orthlus/qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
-  - [orthlus/bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
-  - [orthlus/ae-backup-monitor](https://github.com/orthlus/ae-backup-monitor) - monitoring some backups (they are created and modified)
-  - [orthlus/il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
-  - [orthlus/ae-dns-backup](https://github.com/orthlus/ae-dns-backup) - backup dns yandex cloud for cronjob
-  - [orthlus/ae-habr-worker](https://github.com/orthlus/ae-habr-worker) - habr scanner for cronjob
-  - [orthlus/telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
-  - [orthlus/ae-billing](https://github.com/orthlus/ae-billing) - some billing bot
+  - [media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
+  - [dyn-dns-spring](https://github.com/orthlus/dyn-dns-spring) - dynamic dns (yandex cloud dns) cron in spring boot
+  - [qbit-manager-bot](https://github.com/orthlus/qbit-manager-bot) - qbittorrent manager bot
+  - [bashorg-bot](https://github.com/orthlus/bashorg-bot) - bot with images bash.org quotes
+  - [ae-backup-monitor](https://github.com/orthlus/ae-backup-monitor) - monitoring some backups (they are created and modified)
+  - [il-jobs-launcher-svc](https://github.com/orthlus/il-jobs-launcher-svc) - tasks for kino online with starting k8s jobs
+  - [ae-dns-backup](https://github.com/orthlus/ae-dns-backup) - backup dns yandex cloud for cronjob
+  - [ae-habr-worker](https://github.com/orthlus/ae-habr-worker) - habr scanner for cronjob
+  - [telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
+  - [ae-billing](https://github.com/orthlus/ae-billing) - some billing bot
 - java libraries
-  - [orthlus/java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
-  - [orthlus/aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
-  - [orthlus/aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
-  - [orthlus/s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
-  - [orthlus/aelaort-telegrambots](https://github.com/orthlus/aelaort-telegrambots) - helpers for [telegrambots](https://github.com/rubenlagus/TelegramBots)
-  - [orthlus/ya-iam-helper](https://github.com/orthlus/ya-iam-helper) - yandex cloud token provider
+  - [java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
+  - [aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
+  - [aelaort-s3-client](https://github.com/orthlus/aelaort-s3-client) - aws s3 java sdk v1 wrapper
+  - [s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
+  - [aelaort-telegrambots](https://github.com/orthlus/aelaort-telegrambots) - helpers for [telegrambots](https://github.com/rubenlagus/TelegramBots)
+  - [ya-iam-helper](https://github.com/orthlus/ya-iam-helper) - yandex cloud token provider
 - online cinema (not released) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public) - cinema app operational description
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
 - java scripts
-  - [orthlus/clipboard-text-simulate-printing](https://github.com/orthlus/clipboard-text-simulate-printing) - get text from system clipboard and simulate print it by press key
-  - [orthlus/java-cli-tree](https://github.com/orthlus/java-cli-tree) - cli graalvm tree implementation
+  - [clipboard-text-simulate-printing](https://github.com/orthlus/clipboard-text-simulate-printing) - get text from system clipboard and simulate print it by press key
+  - [java-cli-tree](https://github.com/orthlus/java-cli-tree) - cli graalvm tree implementation
 - python scripts
-  - [orthlus/base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python scripts for convert large binary files to many small text files and back
-  - [orthlus/update-dns-cloudflare](https://github.com/orthlus/update-dns-cloudflare) - dns records update for dynamic ip, python, cloudflare api
+  - [base64-bytes-converter](https://github.com/orthlus/base64-bytes-converter) - python scripts for convert large binary files to many small text files and back
+  - [update-dns-cloudflare](https://github.com/orthlus/update-dns-cloudflare) - dns records update for dynamic ip, python, cloudflare api
 - javascript
-  - [orthlus/csv-to-sql-format](https://github.com/orthlus/csv-to-sql-format) - csv to sql data converter for ad hoc data analysis
-  - [orthlus/ae-tasks-front](https://github.com/orthlus/ae-tasks-front) - web tasks frontend
+  - [csv-to-sql-format](https://github.com/orthlus/csv-to-sql-format) - csv to sql data converter for ad hoc data analysis
+  - [ae-tasks-front](https://github.com/orthlus/ae-tasks-front) - web tasks frontend
 - gists:
   - [git utilities](https://gist.github.com/orthlus/7e8212be5c16484dab9d0aea5e210a02)
   - [powershell utilities](https://gist.github.com/orthlus/728e8de8d75b4abcd12506fb69bc0448)
