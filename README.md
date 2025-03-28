@@ -15,6 +15,7 @@ My pet projects:
   - [ae-habr-worker](https://github.com/orthlus/ae-habr-worker) - habr scanner for cronjob
   - [telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
   - [ae-billing](https://github.com/orthlus/ae-billing) - some billing bot
+  - [ae-tasks-backend](https://github.com/orthlus/ae-tasks-backend) - web tasks backend
 - java libraries
   - [java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
