@@ -2,7 +2,9 @@
 
 My pet projects:
 - infrastructure projects
-  - [infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli, building apps, manage and inventory infrastructure objects on local custom file structure
+  - [infrastructure-management](https://github.com/orthlus/infrastructure-management) - java graalvm cli for manage and inventory infrastructure objects on local custom file structure
+  - [ae-build](https://github.com/orthlus/ae-build) - java graalvm cli for building apps and run db migrations (inner liquibase)
+  - [local-sync](https://github.com/orthlus/local-sync) - support java cli for infrastructure-management (parser)
   - [docker-management-script](https://github.com/orthlus/docker-management-script) - docker compose cli wrapper, potentially safe for manual admin
 - java backend apps:
   - [media-bot](https://github.com/orthlus/media-bot) - telegram bot for download media
@@ -23,6 +25,7 @@ My pet projects:
   - [s3-sdk-v2](https://github.com/orthlus/s3-sdk-v2) - aws s3 java sdk v2 wrapper
   - [aelaort-telegrambots](https://github.com/orthlus/aelaort-telegrambots) - helpers for [telegrambots](https://github.com/rubenlagus/TelegramBots)
   - [ya-iam-helper](https://github.com/orthlus/ya-iam-helper) - yandex cloud token provider
+  - [local-sync-models](https://github.com/orthlus/local-sync-models) - models for infrastructure-management
 - online cinema (not released) [kino-online](https://github.com/kino-online)
   - [kino-online/docs-public](https://github.com/kino-online/docs-public) - cinema app operational description
   - [kino-online/test-ffmpeg](https://github.com/kino-online/test-ffmpeg) - ffmpeg manual testing for online-cinema
