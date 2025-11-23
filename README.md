@@ -18,6 +18,7 @@ My pet projects:
   - [telegram-pack](https://github.com/orthlus/telegram-pack) - some personal telegram bots
   - [ae-billing](https://github.com/orthlus/ae-billing) - some billing bot
   - [ae-tasks-backend](https://github.com/orthlus/ae-tasks-backend) - web tasks backend
+  - [blackpink-channel-job](https://github.com/orthlus/blackpink-channel-job) - cron job for [BLɅϽKPIИK](https://ru.wikipedia.org/wiki/Blackpink) telegram channel with instagram reposts
 - java libraries
   - [java-cryptojs-helper](https://github.com/orthlus/java-cryptojs-helper) - java partial implementation of CryptoJS
   - [aelaort-ffmpeg](https://github.com/orthlus/aelaort-ffmpeg) - wrapper above ffmpeg wrappers
